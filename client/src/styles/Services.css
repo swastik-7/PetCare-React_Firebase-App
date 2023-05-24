@@ -1,0 +1,99 @@
+.header{
+    text-align:center;
+    background-color: white;
+  }
+
+.firstrow{
+  display: flex;
+  margin-left: 350px;
+}
+
+.secondrow{
+  display: flex;
+  margin-left: 350px;
+}
+
+.thirdrow{
+  display: flex;
+  margin-left: 350px;
+}
+  
+  .rectangle{
+    height: 350px;
+    width: 300px;
+    background-color: #0000;
+      margin: 50px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
+  }
+
+  .rectangl{
+    height: 350px;
+    width: 300px;
+    background-color: #0000;
+      margin: 50px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
+  }
+
+  .rectang{
+    height: 350px;
+    width: 300px;
+    background-color: #0000;
+      margin: 50px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
+  }
+
+  .rectan{
+    height: 350px;
+    width: 300px;
+    background-color: #0000;
+      margin: 50px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
+  }
+
+  .recta{
+    height: 350px;
+    width: 300px;
+    background-color: #0000;
+      margin: 50px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
+  }
+
+  .rect{
+    height: 350px;
+    width: 300px;
+    background-color: #0000;
+      margin: 50px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
+  }
+
+  .left{
+    justify-content: flex-start;
+  }
+
+
+
+  img{
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+
+  h2{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000033;
+    text-align: center;
+ }
+
+button{
+  border-radius: 5px;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #000033;
+  color: white;
+}
