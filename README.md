@@ -6,6 +6,6 @@ PetCare App (Whiskers & Tails) built using React♾️ and Firebase 🔥.
      .1. cd client     // to move to client dir
      .2. npm start     // run frontend
      
-     Run simlar commands for server.
+ Run simlar commands for server.
      
      
